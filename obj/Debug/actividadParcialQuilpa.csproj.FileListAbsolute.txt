@@ -42,3 +42,14 @@ C:\Users\Ignacio\actParcial_Completo_arregloDB\obj\Debug\actividadParcialQuilpa.
 C:\Users\Ignacio\actParcial_Completo_arregloDB\obj\Debug\actividadParcialQuilpa.csproj.CoreCompileInputs.cache
 C:\Users\Ignacio\actParcial_Completo_arregloDB\obj\Debug\actividadParcialQuilpa.exe
 C:\Users\Ignacio\actParcial_Completo_arregloDB\obj\Debug\actividadParcialQuilpa.pdb
+C:\Users\Ignacio\Documents\GitHub\actParcialDefinitivo\bin\Debug\actividadParcialQuilpa.exe.config
+C:\Users\Ignacio\Documents\GitHub\actParcialDefinitivo\bin\Debug\actividadParcialQuilpa.exe
+C:\Users\Ignacio\Documents\GitHub\actParcialDefinitivo\bin\Debug\actividadParcialQuilpa.pdb
+C:\Users\Ignacio\Documents\GitHub\actParcialDefinitivo\obj\Debug\actividadParcialQuilpa.csproj.AssemblyReference.cache
+C:\Users\Ignacio\Documents\GitHub\actParcialDefinitivo\obj\Debug\actividadParcialQuilpa.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ignacio\Documents\GitHub\actParcialDefinitivo\obj\Debug\actividadParcialQuilpa.frmReceta.resources
+C:\Users\Ignacio\Documents\GitHub\actParcialDefinitivo\obj\Debug\actividadParcialQuilpa.Properties.Resources.resources
+C:\Users\Ignacio\Documents\GitHub\actParcialDefinitivo\obj\Debug\actividadParcialQuilpa.csproj.GenerateResource.cache
+C:\Users\Ignacio\Documents\GitHub\actParcialDefinitivo\obj\Debug\actividadParcialQuilpa.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Documents\GitHub\actParcialDefinitivo\obj\Debug\actividadParcialQuilpa.exe
+C:\Users\Ignacio\Documents\GitHub\actParcialDefinitivo\obj\Debug\actividadParcialQuilpa.pdb
